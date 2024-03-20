@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(154, 81, 93);
+}
+img {
+    border: 4px solid pink;
+    margin: auto;
+    padding: 1px;
+}
+a {
+    color:blue;
+}
+a:hover {
+    color:brown;
+}

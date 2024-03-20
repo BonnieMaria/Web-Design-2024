@@ -1,0 +1,10 @@
+#titolo {
+    color: rgb(19, 196, 19);
+    text-align: center;
+}
+#p1, #p3 {
+    color: orange;
+}
+#p2 {
+    color: rgb(185, 101, 174);
+}
