@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Lista spesa"
+		},
+		{
+			"path": "../../museo-virtuale"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lista spesa"
+	}
+}
